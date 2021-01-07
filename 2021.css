@@ -1,0 +1,11 @@
+#calc{
+    display:grid;
+    grid-template-columns: repeat(3,30px);
+    grid-template-rows: repeat(2, 30px);
+
+}
+
+.box {border-style: solid;
+
+
+}
